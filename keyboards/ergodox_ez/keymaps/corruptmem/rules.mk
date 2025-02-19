@@ -6,3 +6,5 @@ MOUSEKEY_ENABLE = no
 ORYX_ENABLE = yes
 RGBLIGHT_ENABLE = no
 LTO_ENABLE = yes
+
+DEBOUNCE_TYPE = asym_eager_defer_pk
